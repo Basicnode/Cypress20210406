@@ -1,0 +1,13 @@
+{
+  "banner": {
+    "bannermanager": "a[href='#/banner']",
+    "addbutton": ":nth-child(3) > .el-col > .el-button--success",
+    "newtitle": ":nth-child(1) > .el-form-item > .el-form-item__content > .el-input > .el-input__inner",
+    "newurl": ":nth-child(2) > .el-form-item > .el-form-item__content > .el-input > .el-input__inner",
+    "newtype": ".el-scrollbar__view > :nth-child(3)",
+
+
+    "submit": ".el-form-item__content > .el-button--primary > span"
+  }
+}
+
