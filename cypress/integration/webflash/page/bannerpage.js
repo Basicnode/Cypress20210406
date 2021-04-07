@@ -1,5 +1,6 @@
 import locator from './locator.json'
 import faker from 'faker'
+
 faker.setLocale('en')  //英文
 // faker.setLocale('zh_CN')  //中文
 

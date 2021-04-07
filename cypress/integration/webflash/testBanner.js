@@ -13,7 +13,6 @@ describe("banner管理",()=>{
         this.instance.newurl.click({force: true})
         this.instance.newtype.click({force:true})
         // this.instance.uploadicon
-
         this.instance.submit
     })
 })
